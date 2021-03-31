@@ -9,6 +9,7 @@
     "react-test-renderer": "^16.4.1"
   },
   "dependencies": {
+    "@testing-library/jest-dom": "^5.11.10",
     "ajv": "^6.5.2",
     "bootstrap": "^4.0.0",
     "history": "^4.7.2",
